@@ -19,6 +19,7 @@ img {
 
 body{
     font-family: 'PT Sans';
+    font-size: 16pt;
 }
 
 p {
@@ -28,4 +29,5 @@ p {
 h3 {
     font-family: 'PT Sans';
     font-weight: bold;
+    color: #df8968;
 }
